@@ -35,6 +35,18 @@
   text-decoration-line: underline;
   font-size: 60px;
 }
+.japan-container {
+  background-image: url('../assets/japan2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+.japan h1 {
+  font-weight: bold;
+  text-decoration-line: underline;
+  font-size: 60px;
+}
 .heading {
   color: black;
   font-weight: bold;

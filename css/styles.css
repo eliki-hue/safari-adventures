@@ -1,0 +1,18 @@
+.header-container {
+  
+  background-image: url('../assets/ID-img.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: center;
+  height: 45vh;
+}
+h1 {
+  position: center;
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: lighter;
+  vertical-align: middle;
+  color: black;
+}

@@ -12,7 +12,8 @@
 
 **Technologies used:** HTML, CSS AND JAVASCRIPT, JQUERY, BOOTSTRAP.
 
-**Contact information:**  Name   phone
+**Contact information:** <br>
+Name      phone No.<br>
                         Elijah:0717277631<br>
                         Jessica:<br>
                         Zachary:<br>

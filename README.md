@@ -13,11 +13,11 @@
 **Technologies used:** HTML, CSS AND JAVASCRIPT, JQUERY, BOOTSTRAP.
 
 **Contact information:**  Name   phone
-                        Elijah:0717277631
-                        Jessica:
-                        Zachary:
-                        Hosea:
-                        Joy:
+                        Elijah:0717277631<br>
+                        Jessica:<br>
+                        Zachary:<br>
+                        Hosea:<br>
+                        Joy:<br>
                                 
 
 **License:** MIT License

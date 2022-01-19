@@ -47,6 +47,19 @@
   text-decoration-line: underline;
   font-size: 60px;
 }
+.australia-container {
+  background-image: url('../assets/australia2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+.australia h1 {
+  font-weight: bold;
+  text-decoration-line: underline;
+  font-size: 60px;
+}
+
 .heading {
   color: black;
   font-weight: bold;

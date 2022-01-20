@@ -3,13 +3,26 @@
 .products {
   padding: 4rem 0;
 }
+.section-title{
+  height: 350px;
+  background-image: url('local destinations/background4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 5px;
+  margin-bottom: 5rem;
+  
+}
 .section-title h2 {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 5rem;
   text-transform: capitalize;
   letter-spacing: var(--mainSpacing);
+  margin-top: 10px;
+  
+  
 }
+
 .products-center {
   width: 90vw;
   margin: 0 auto;
@@ -90,4 +103,7 @@ margin-right:  px;
 }
 .container {
   align-content: center;
+}
+#contact {
+  background-color: gray;
 }

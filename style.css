@@ -72,3 +72,22 @@
 }
 
 /* ---------------End of Products ---------------- */
+/* form */
+.field-label {
+margin-right:  px;
+}
+.form-body {
+  align-content: center;
+}
+.form-body div{
+  margin-top: 20px;
+}
+.form-body div input{margin-left: 50px;}
+.smart-wrap{
+  align-items: center;
+  align-content: center;
+  display: flex;
+}
+.container {
+  align-content: center;
+}

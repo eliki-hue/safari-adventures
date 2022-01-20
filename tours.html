@@ -9,28 +9,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/tours.css">
 </head>
+,<script src="./js//jquery-3.6.0.js"></script>
+<script src="./js/tours.js"></script>
 <body>
 <div class="topnav">
   <a class="active" href="">Tours</a>
 </div> 
 <div class="tours">
-  <div class="dubai">
-    <img src="Dubai.jpg" alt="Dubai">
-  <p>Dubai packages from 15000/ksh</p>
-  <p>Better sceneries for our customers e.g beaches and restaurants </p>
+  <div class="containers">
+    <div class="Dubai">
+      <img src="Dubai.jpg" alt="Dubai">
+      <p>Dubai packages from 1500 usd <p>
+      <button onclick="toggleText()" id="textButton">
+        Show More
+    </div>
+    <div class="Diani">
+      <img src="Diani.jpg"alt="Diani">
+      <p>Diani packages from 1000 usd</p><span id="points">...</span>
+      <button onclick="toggleText()" id="textButton">
+        Show More
+    </div>
+    <div class="serengeti">
+      <img src="serengeti.jpg" alt="Serengeti">
+      <p>Serengeti Packages from 1200 usd </p>strong></p><span id="points">...</span>
+        <button onclick="toggleText()" id="textButton">
+          Show More
+      </button>
+      </div>
+      <div class="Malaysian">
+        <img src="Malaysian.jpg"alt="Malaysian">
+        <p>Malaysian packages from 1000 usd</p><span id="points">...</span>
+        <button onclick="toggleText()" id="textButton">
+          Show More
+    </div>
+    <div class="Naivasha">
+      <img src="Naivasha.jpg"alt="Naivasha">
+      <p>Naivasha packages from 1100 usd</p><span id="points">...</span>
+      <button onclick="toggleText()" id="textButton">
+        Show More
   </div>
-  <img src="Diani.jpg"alt="Diani">
-  <p>Diani packages from 11000</p>
-  <p>Diani has better hotels and beaches we provide lodges </p>
-  <div class="serengeti">
-    <img src="serengeti.jpg" alt="Serengeti">
-    <p>Serengeti Packages from 12000</p>
-    <p>the game reserve which serves the most reserve in east africa ,our customers </p>
-      <p>will encounter many types of animals</p>
+  <div class="Nakuru">
+    <img src="Nakuru.jpg"alt="Nakuru">
+    <p>Nakuru packages from 1100 usd</p><span id="points">...</span>
+    <button onclick="toggleText()" id="textButton">
+      Show More
   </div>
-   
 </div>
-
-</div>
+<script src="./js/tours.js"></script>
 </body>
 </html>

@@ -59,7 +59,18 @@
   text-decoration-line: underline;
   font-size: 60px;
 }
-
+.cuba-container {
+  background-image: url('../assets/cuba2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+.cuba h1 {
+  font-weight: bold;
+  text-decoration-line: underline;
+  font-size: 60px;
+}
 .heading {
   color: black;
   font-weight: bold;

@@ -161,12 +161,15 @@ margin-right:  px;
   height: 40vh;
 }
 .italy-container {
-  
-  background-position:left;
-  /* background-repeat: no-repeat; */
-  background-size: cover;
-  height: 50vh;
+  /* background-image:url('local destinations/malindi/download (2).jpeg'); */
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 40vh;
   text-align: center;
+}
+.italy-container img{
+  
 }
 .italy-container h1 {
   font-weight: bold;

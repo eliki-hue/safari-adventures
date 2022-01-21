@@ -1,0 +1,164 @@
+.head-container {
+
+    background-image: url('../images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: center;
+    height:45vh;
+}
+.head-container h1 {
+    position: center;
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight:lighter;
+    vertical-align: middle;
+    color: black;
+}
+.dubai-container {
+    background-image: url('../images/bg2.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+.dubai h1 {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 60px;
+}
+.maasai-container {
+    background-image: url('../images/marascene2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:40vh;
+}
+.maasai h1 {
+    font-weight: bold;
+    text-decoration-line:underline;
+    font-size: 60px;
+}
+.paris-container {
+    background-image: url('../images/bg3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 40vh;
+}
+.paris h1 {
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: 60px;
+}
+.zanz-container {
+    background-image:url('../images/zanz3.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+.zanz h1 {
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size:60px;
+}
+.mau-container{
+    background-image:url('../images/mau1.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+.mau h1 {
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: 60px;
+}
+.heading {
+    color: black;
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: 60px;
+}
+.container {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: white;
+    position: relative;
+    color: black;
+    font-family: cursive;
+}
+.dest-img img {
+    margin-left:5px;
+    margin-right:5px;
+}
+.first {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.second {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.images-container {
+    margin: 10px;
+    line-height:150px;
+    padding:10px;
+    margin-top: 30px;
+
+}
+.overlay {
+    position: static;
+    background:rgba(19,3,3,0.582);
+    cursor:pointer;
+    display:none;
+    transition:all 0.5s ease;
+    bottom:-150px;
+}
+.dest-img:hover img {
+   transform: scale(1.2);
+   transition: all 0.3s ease;
+}
+.text {
+    color:white;
+    background-color:rgba(0,0,0.301);
+    padding: 50px 10px;
+    font-size:30px;
+    padding-top: 30px;
+    line-height:90%;
+    overflow:hidden;
+    font-family: 'Times New Roman';
+}
+.site {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.site img {
+    width:300px;
+    height:300px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse:collapse;
+    width:100%;
+}
+td,th {
+    border:1px solid#DDDDDD;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+ background-color:#DDDDDD;
+}
+.provided h1 {
+    font-weight:  bold;
+    text-decoration-line: underline;
+}
+.btn{
+    font-size: 30px;
+}

@@ -41,13 +41,17 @@
 
   .about{
     text-align: center;
-    background-image: url("/images/images/andaman.jp");
-    color: white;
+    background-image: url("/images/images/andaman.jpg");
+    color: rgb(18, 19, 18);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Copse', serif;
-    font-size: 18px;
+    font-size: 25px;
+    /* font-weight: bolder; */
+  }
+  .about p{
+    margin-top: 240px;
   }
   #aboutoverlay{
     background-color: rgba(0,0,0,0.4);
@@ -149,8 +153,18 @@ input[type=submit]:hover {
   padding: 20px;
 }
 .cont{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  
 
-background-image: url("/images/images/Mumbai.jpg");
+/* /;background-image: url("/images/images/Mumbai.jpg"); */
+}
+.container form{
+  opacity: 0.9;
+}
+.cont h1{
+  text-align: center;
 }
 
   
